@@ -1,0 +1,6 @@
+framework module INCategory {
+  umbrella header "INCategory.h"
+
+  export *
+  module * { export * }
+}
