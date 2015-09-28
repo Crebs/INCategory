@@ -10,13 +10,13 @@
 		235EA9301BB9AB040067266A /* INCategory.h in Headers */ = {isa = PBXBuildFile; fileRef = 235EA92F1BB9AB040067266A /* INCategory.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		235EA9361BB9AB040067266A /* INCategory.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 235EA92A1BB9AB040067266A /* INCategory.framework */; };
 		235EA93D1BB9AB040067266A /* INCategoryTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 235EA93C1BB9AB040067266A /* INCategoryTests.m */; };
-		236F803F1BB9AB9500D2ED8C /* UIColor+Extention.h in Headers */ = {isa = PBXBuildFile; fileRef = 236F80371BB9AB9500D2ED8C /* UIColor+Extention.h */; };
+		236F803F1BB9AB9500D2ED8C /* UIColor+Extention.h in Headers */ = {isa = PBXBuildFile; fileRef = 236F80371BB9AB9500D2ED8C /* UIColor+Extention.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		236F80401BB9AB9500D2ED8C /* UIColor+Extention.m in Sources */ = {isa = PBXBuildFile; fileRef = 236F80381BB9AB9500D2ED8C /* UIColor+Extention.m */; };
-		236F80411BB9AB9500D2ED8C /* UIStoryboard+Extension.h in Headers */ = {isa = PBXBuildFile; fileRef = 236F80391BB9AB9500D2ED8C /* UIStoryboard+Extension.h */; };
+		236F80411BB9AB9500D2ED8C /* UIStoryboard+Extension.h in Headers */ = {isa = PBXBuildFile; fileRef = 236F80391BB9AB9500D2ED8C /* UIStoryboard+Extension.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		236F80421BB9AB9500D2ED8C /* UIStoryboard+Extension.m in Sources */ = {isa = PBXBuildFile; fileRef = 236F803A1BB9AB9500D2ED8C /* UIStoryboard+Extension.m */; };
-		236F80431BB9AB9500D2ED8C /* UITextField+Extension.h in Headers */ = {isa = PBXBuildFile; fileRef = 236F803B1BB9AB9500D2ED8C /* UITextField+Extension.h */; };
+		236F80431BB9AB9500D2ED8C /* UITextField+Extension.h in Headers */ = {isa = PBXBuildFile; fileRef = 236F803B1BB9AB9500D2ED8C /* UITextField+Extension.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		236F80441BB9AB9500D2ED8C /* UITextField+Extension.m in Sources */ = {isa = PBXBuildFile; fileRef = 236F803C1BB9AB9500D2ED8C /* UITextField+Extension.m */; };
-		236F80451BB9AB9500D2ED8C /* UIView+Extension.h in Headers */ = {isa = PBXBuildFile; fileRef = 236F803D1BB9AB9500D2ED8C /* UIView+Extension.h */; };
+		236F80451BB9AB9500D2ED8C /* UIView+Extension.h in Headers */ = {isa = PBXBuildFile; fileRef = 236F803D1BB9AB9500D2ED8C /* UIView+Extension.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		236F80461BB9AB9500D2ED8C /* UIView+Extension.m in Sources */ = {isa = PBXBuildFile; fileRef = 236F803E1BB9AB9500D2ED8C /* UIView+Extension.m */; };
 /* End PBXBuildFile section */
 
