@@ -10,8 +10,8 @@
 		235EA9301BB9AB040067266A /* INCategory.h in Headers */ = {isa = PBXBuildFile; fileRef = 235EA92F1BB9AB040067266A /* INCategory.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		235EA9361BB9AB040067266A /* INCategory.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 235EA92A1BB9AB040067266A /* INCategory.framework */; };
 		235EA93D1BB9AB040067266A /* INCategoryTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 235EA93C1BB9AB040067266A /* INCategoryTests.m */; };
-		236F803F1BB9AB9500D2ED8C /* UIColor+Extention.h in Headers */ = {isa = PBXBuildFile; fileRef = 236F80371BB9AB9500D2ED8C /* UIColor+Extention.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		236F80401BB9AB9500D2ED8C /* UIColor+Extention.m in Sources */ = {isa = PBXBuildFile; fileRef = 236F80381BB9AB9500D2ED8C /* UIColor+Extention.m */; };
+		236F803F1BB9AB9500D2ED8C /* UIColor+Extentsion.h in Headers */ = {isa = PBXBuildFile; fileRef = 236F80371BB9AB9500D2ED8C /* UIColor+Extentsion.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		236F80401BB9AB9500D2ED8C /* UIColor+Extentsion.m in Sources */ = {isa = PBXBuildFile; fileRef = 236F80381BB9AB9500D2ED8C /* UIColor+Extentsion.m */; };
 		236F80411BB9AB9500D2ED8C /* UIStoryboard+Extension.h in Headers */ = {isa = PBXBuildFile; fileRef = 236F80391BB9AB9500D2ED8C /* UIStoryboard+Extension.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		236F80421BB9AB9500D2ED8C /* UIStoryboard+Extension.m in Sources */ = {isa = PBXBuildFile; fileRef = 236F803A1BB9AB9500D2ED8C /* UIStoryboard+Extension.m */; };
 		236F80431BB9AB9500D2ED8C /* UITextField+Extension.h in Headers */ = {isa = PBXBuildFile; fileRef = 236F803B1BB9AB9500D2ED8C /* UITextField+Extension.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -37,8 +37,8 @@
 		235EA9351BB9AB040067266A /* INCategoryTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = INCategoryTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		235EA93B1BB9AB040067266A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		235EA93C1BB9AB040067266A /* INCategoryTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = INCategoryTests.m; sourceTree = "<group>"; };
-		236F80371BB9AB9500D2ED8C /* UIColor+Extention.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIColor+Extention.h"; sourceTree = "<group>"; };
-		236F80381BB9AB9500D2ED8C /* UIColor+Extention.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIColor+Extention.m"; sourceTree = "<group>"; };
+		236F80371BB9AB9500D2ED8C /* UIColor+Extentsion.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIColor+Extentsion.h"; sourceTree = "<group>"; };
+		236F80381BB9AB9500D2ED8C /* UIColor+Extentsion.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIColor+Extentsion.m"; sourceTree = "<group>"; };
 		236F80391BB9AB9500D2ED8C /* UIStoryboard+Extension.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIStoryboard+Extension.h"; sourceTree = "<group>"; };
 		236F803A1BB9AB9500D2ED8C /* UIStoryboard+Extension.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIStoryboard+Extension.m"; sourceTree = "<group>"; };
 		236F803B1BB9AB9500D2ED8C /* UITextField+Extension.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UITextField+Extension.h"; sourceTree = "<group>"; };
@@ -122,8 +122,8 @@
 		236F80361BB9AB9500D2ED8C /* Classes */ = {
 			isa = PBXGroup;
 			children = (
-				236F80371BB9AB9500D2ED8C /* UIColor+Extention.h */,
-				236F80381BB9AB9500D2ED8C /* UIColor+Extention.m */,
+				236F80371BB9AB9500D2ED8C /* UIColor+Extentsion.h */,
+				236F80381BB9AB9500D2ED8C /* UIColor+Extentsion.m */,
 				236F80391BB9AB9500D2ED8C /* UIStoryboard+Extension.h */,
 				236F803A1BB9AB9500D2ED8C /* UIStoryboard+Extension.m */,
 				236F803B1BB9AB9500D2ED8C /* UITextField+Extension.h */,
@@ -145,7 +145,7 @@
 				236F80431BB9AB9500D2ED8C /* UITextField+Extension.h in Headers */,
 				236F80411BB9AB9500D2ED8C /* UIStoryboard+Extension.h in Headers */,
 				235EA9301BB9AB040067266A /* INCategory.h in Headers */,
-				236F803F1BB9AB9500D2ED8C /* UIColor+Extention.h in Headers */,
+				236F803F1BB9AB9500D2ED8C /* UIColor+Extentsion.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -246,7 +246,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				236F80421BB9AB9500D2ED8C /* UIStoryboard+Extension.m in Sources */,
-				236F80401BB9AB9500D2ED8C /* UIColor+Extention.m in Sources */,
+				236F80401BB9AB9500D2ED8C /* UIColor+Extentsion.m in Sources */,
 				236F80461BB9AB9500D2ED8C /* UIView+Extension.m in Sources */,
 				236F80441BB9AB9500D2ED8C /* UITextField+Extension.m in Sources */,
 			);

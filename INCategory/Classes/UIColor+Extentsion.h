@@ -1,5 +1,5 @@
 //
-//  UIColor+Extention.h
+//  UIColor+Extension.h
 //  spending
 //
 //  Created by Riley Crebs on 2/1/14.
@@ -8,7 +8,7 @@
 
 #import <UIKit/UIKit.h>
 
-@interface UIColor (Extention)
+@interface UIColor (Extension)
 + (UIColor*) budgetPurple;
 + (UIColor*) budgetGreen;
 + (UIColor*) budgetOrange;

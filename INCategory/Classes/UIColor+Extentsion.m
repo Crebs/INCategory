@@ -1,14 +1,14 @@
 //
-//  UIColor+Extention.m
+//  UIColor+Extentsion.m
 //  spending
 //
 //  Created by Riley Crebs on 2/1/14.
 //  Copyright (c) 2014 Riley Crebs. All rights reserved.
 //
 
-#import "UIColor+Extention.h"
+#import "UIColor+Extentsion.h"
 
-@implementation UIColor (Extention)
+@implementation UIColor (Extension)
 + (UIColor*) budgetPurple
 {
 	return [UIColor colorWithRed:92.0f/255.0f green:64.0f/255.0f blue:124.0f/255.0f alpha:1.0f];
