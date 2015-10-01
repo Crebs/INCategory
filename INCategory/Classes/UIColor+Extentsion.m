@@ -6,7 +6,7 @@
 //  Copyright (c) 2014 Riley Crebs. All rights reserved.
 //
 
-#import "UIColor+Extentsion.h"
+#import "UIColor+Extension.h"
 
 @implementation UIColor (Extension)
 + (UIColor*) budgetPurple
