@@ -6,11 +6,11 @@
 	<dict>
 		<key>Headers/INCategory.h</key>
 		<data>
-		QaL8d7UmCN8LWNY2Y2VF4E0b2Zw=
+		KGf95mKgBX73DQbeJ2njseOYG9A=
 		</data>
-		<key>Headers/UIColor+Extention.h</key>
+		<key>Headers/UIColor+Extension.h</key>
 		<data>
-		j0YEW9Uf4QqMRMdRYwCVYnNfcf0=
+		mau1yMaYl15LBuv+zoaBV900Dik=
 		</data>
 		<key>Headers/UIStoryboard+Extension.h</key>
 		<data>
@@ -26,7 +26,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		V1MsFrWXtGQ66SbGjxKlZhMI4pc=
+		yIagPrd3NoKAb78lnZKB116/xZk=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -37,11 +37,11 @@
 	<dict>
 		<key>Headers/INCategory.h</key>
 		<data>
-		QaL8d7UmCN8LWNY2Y2VF4E0b2Zw=
+		KGf95mKgBX73DQbeJ2njseOYG9A=
 		</data>
-		<key>Headers/UIColor+Extention.h</key>
+		<key>Headers/UIColor+Extension.h</key>
 		<data>
-		j0YEW9Uf4QqMRMdRYwCVYnNfcf0=
+		mau1yMaYl15LBuv+zoaBV900Dik=
 		</data>
 		<key>Headers/UIStoryboard+Extension.h</key>
 		<data>

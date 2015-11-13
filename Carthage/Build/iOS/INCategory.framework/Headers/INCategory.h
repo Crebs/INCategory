@@ -15,5 +15,9 @@ FOUNDATION_EXPORT double INCategoryVersionNumber;
 FOUNDATION_EXPORT const unsigned char INCategoryVersionString[];
 
 // In this header, you should import all the public headers of your framework using statements like #import <INCategory/PublicHeader.h>
+#import <INCategory/UIColor+Extension.h>
+#import <INCategory/UIStoryboard+Extension.h>
+#import <INCategory/UITextField+Extension.h>
+#import <INCategory/UIView+Extension.h>
 
 
